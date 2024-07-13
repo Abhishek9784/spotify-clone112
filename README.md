@@ -2,6 +2,13 @@
 
 A Spotify clone built with React JS, Tailwind CSS & API showcasing a dynamic and responsive user interface. This project is a demonstration of modern web development techniques using React JS hooks, React-DOM for navigation, and the Tailwind CSS framework for styling.
 
+# Screenshot
+
+![Screenshot (27)](https://github.com/user-attachments/assets/5aaa9387-bd5c-4641-b2b1-9d525a4eeaf5)
+
+
+![Screenshot (26)](https://github.com/user-attachments/assets/d29c1a89-e1bc-43a4-a9e4-801a034016c1)
+
 ## Table of Contents
 
 - [Features](#features)
